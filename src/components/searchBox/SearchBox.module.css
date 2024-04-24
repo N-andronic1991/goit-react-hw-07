@@ -1,0 +1,12 @@
+.searchBox {
+  margin-bottom: 30px;
+}
+
+.searchInput {
+  display: block;
+  width: 280px;
+  min-height: 30px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  border: 1px solid cadetblue;
+}

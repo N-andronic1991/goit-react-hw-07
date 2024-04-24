@@ -1,0 +1,18 @@
+.contactBox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  max-width: 400px;
+  border: 1px solid rgb(186, 186, 210);
+  border-radius: 4px;
+}
+
+.text {
+  margin-bottom: 6px;
+}
+
+.icon {
+  margin-right: 5px;
+  text-align: center;
+}

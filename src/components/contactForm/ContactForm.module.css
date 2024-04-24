@@ -1,0 +1,33 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  width: 300px;
+  height: fit-content;
+  padding: 15px;
+  border: 1px solid black;
+}
+
+.field {
+  display: block;
+  width: 280px;
+  min-height: 30px;
+  /* margin-bottom: 15px; */
+  border-radius: 4px;
+  border: 1px solid rgb(133, 182, 184);
+}
+
+.submitBtn {
+  display: block;
+  margin: 0 auto;
+}
+.error {
+  display: block;
+  font-size: 10px;
+  color: firebrick;
+}
+
+.wrapper {
+  margin-bottom: 15px;
+}
